@@ -1,6 +1,151 @@
-MIT License
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+======================================
 
-Copyright (c) 2025 Razin Ahmed
+Copyright (c) 2024-2026 Abdul Rasak Vazhakkatyil (Abdul Rasak V)
+All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files...
+GitHub: https://github.com/razinahmed
+Contact: razinahmedv@gmail.com
+
+TERMS AND CONDITIONS
+--------------------
+
+By accessing, viewing, downloading, or using any part of this software,
+source code, documentation, or associated files (collectively, the
+"Software"), you agree to be bound by the terms of this License Agreement.
+
+1. GRANT OF LIMITED LICENSE
+
+   The copyright holder grants you a limited, non-exclusive,
+   non-transferable, revocable license to:
+
+   a) VIEW the source code for personal educational and learning
+      purposes only.
+
+   b) DOWNLOAD or CLONE the repository for private, personal study
+      on your local machine.
+
+   c) REFERENCE small code snippets (under 20 lines) in educational
+      materials, blog posts, or tutorials, provided that proper
+      attribution is given to the original author with a link to
+      the original repository.
+
+2. RESTRICTIONS — YOU MAY NOT:
+
+   a) PUBLISH, DISTRIBUTE, OR REDISTRIBUTE the Software, in whole
+      or in part, in any form (source code, compiled binaries,
+      modified versions, or derivative works) without prior written
+      consent from the copyright holder.
+
+   b) USE the Software, in whole or in part, in any commercial
+      product, service, application, or offering, whether for
+      profit or not, without prior written consent from the
+      copyright holder.
+
+   c) CREATE DERIVATIVE WORKS based on the Software, including but
+      not limited to modifications, adaptations, translations,
+      ports, or any substantially similar software, without prior
+      written consent from the copyright holder.
+
+   d) SUBLICENSE, SELL, LEASE, RENT, LOAN, or otherwise transfer
+      the Software or any rights granted under this License to
+      any third party.
+
+   e) CLAIM OWNERSHIP or authorship of the Software or any part
+      thereof, or remove, alter, or obscure any copyright notices,
+      license texts, or attribution marks.
+
+   f) USE the Software in any project, portfolio, resume, or
+      professional presentation as if it were your own work.
+
+   g) UPLOAD, HOST, OR MIRROR the Software on any other platform,
+      repository, website, or distribution channel without prior
+      written consent from the copyright holder.
+
+   h) USE the Software to train, fine-tune, or develop any
+      artificial intelligence or machine learning model without
+      prior written consent from the copyright holder.
+
+3. ATTRIBUTION REQUIREMENTS
+
+   Any permitted use of the Software must include clear and
+   prominent attribution to the original author:
+
+   "Original work by Abdul Rasak V (https://github.com/razinahmed)"
+
+4. TERMINATION
+
+   a) This License is effective until terminated. Your rights under
+      this License will terminate automatically and without notice
+      if you fail to comply with any of its terms.
+
+   b) Upon termination, you must immediately cease all use of the
+      Software and destroy all copies in your possession.
+
+   c) The copyright holder reserves the right to revoke this
+      License at any time, for any reason, with or without notice.
+
+5. ENFORCEMENT AND LEGAL ACTION
+
+   a) Any unauthorized use, reproduction, distribution, publication,
+      or commercial exploitation of the Software constitutes a
+      violation of this License and an infringement of the copyright
+      holder's intellectual property rights.
+
+   b) The copyright holder reserves the right to pursue all
+      available legal remedies, including but not limited to:
+
+      - Injunctive relief to stop unauthorized use
+      - Monetary damages, including actual damages and lost profits
+      - Statutory damages as provided by applicable copyright law
+      - Recovery of attorney's fees and legal costs
+
+   c) Violations may be reported and pursued under the copyright
+      laws of the United Arab Emirates, as well as international
+      copyright treaties including the Berne Convention and the
+      WIPO Copyright Treaty.
+
+   d) The copyright holder may file DMCA takedown notices or
+      equivalent legal instruments to remove infringing copies
+      from any platform or service.
+
+6. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE
+   LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN
+   AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT
+   OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+7. GOVERNING LAW AND JURISDICTION
+
+   This License shall be governed by and construed in accordance
+   with the laws of the United Arab Emirates. Any disputes arising
+   from this License shall be subject to the exclusive jurisdiction
+   of the courts of the United Arab Emirates.
+
+8. CONTACT FOR PERMISSIONS
+
+   To request permission for any use not expressly granted by this
+   License, including commercial licensing, distribution rights, or
+   derivative work authorization, please contact:
+
+   Abdul Rasak V
+   Email: razinahmedv@gmail.com
+   GitHub: https://github.com/razinahmed
+
+9. SEVERABILITY
+
+   If any provision of this License is held to be unenforceable or
+   invalid, such provision shall be modified to the minimum extent
+   necessary to make it enforceable, and the remaining provisions
+   shall continue in full force and effect.
+
+======================================
+This License applies to all repositories owned by Abdul Rasak V
+(GitHub: razinahmed) unless explicitly stated otherwise in a
+specific repository.
+======================================
